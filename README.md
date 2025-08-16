@@ -17,7 +17,7 @@ Each project demonstrates a different analysis technique, dataset, and real-worl
 ---
 
 ## 👩‍💻 Author
-- *Your Name* Yuvasri. P
+- *Name* Yuvasri. P
 - Skills: Excel | Data Analysis | Linear Regression | SQL | Power BI | Python  
 
 ---
